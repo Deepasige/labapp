@@ -1,1 +1,1 @@
-"console.loh('Hello from App.js');"
+"console.log('Updated App.js content');"
