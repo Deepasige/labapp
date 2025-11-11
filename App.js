@@ -1,1 +1,1 @@
-"console.log('Updated App.js content');"
+"console.log('Updated HTML content');"
